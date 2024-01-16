@@ -1,0 +1,71 @@
+/* Only for Test Purposes 
+body{
+    background-color: blue;
+}
+*/
+
+.about-me{
+    color: rgb(255, 192, 203)
+}
+
+#crazy-cat{
+    border: 1px solid black;
+}
+
+.interest-point{
+    background-color: orange;
+    margin: 15px 0;
+    padding: 15px; 
+    border: 1px solid black;
+    width: fit-content;
+}
+
+#interests-list li {
+    color: brown; 
+}
+
+#favourite-memes{
+    height: 800px; 
+    display:flex; 
+    justify-content: space-evenly;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
+
+#favourite-memes img {
+    width: 350px; 
+    height: 350px; 
+}
+
+/* Mobile Widths */
+@media (min-width: 320px) and (max-width: 767px){
+    #favourite-memes{
+        background-color: pink;
+          flex-direction: column;
+    }
+
+    #favourite-memes img {
+        width: 100px; 
+        height: 100px; 
+    }
+}
+
+/* Tablet Widths */
+@media (min-width: 768px) and (max-width: 1023px){
+    #favourite-memes{
+        background-color: orange; 
+        flex-direction: column;
+    }
+
+    #favourite-memes img {
+        width: 100px; 
+        height: 100px; 
+    }
+}
+
+/* Laptop Widths */
+@media (min-width: 1024px){
+    #favourite-memes{
+         background-color: olive;
+    }
+}
