@@ -9,6 +9,7 @@
 <li>Created Media Queries to provide a Responsive Web Design for: mobile, tablet and laptop.</li>
 </ul>
 
+### With LAB SOLUTIONS for Recipes Clone + Ironhack News 
 
 ### Useful Links: 
 <a href="https://www.youtube.com/watch?v=K74l26pE4YA"> Learn CSS Flexbox in 100 Seconds </a>
