@@ -2,6 +2,7 @@
 ### Today, we: 
 - Understood Box Model's padding, margin and border. Here's an image of it: 
 <img src="https://i.imgur.com/LF204FU.gif"/>
+<br>
 - Used the Descendant Selector;
 - Understood Flexbox Mechanism and its properties, such as: flex-direction, align-items, justify-content, flex-wrap; 
 - Created Media Queries to provide a Responsive Web Design for: mobile, tablet and laptop.
