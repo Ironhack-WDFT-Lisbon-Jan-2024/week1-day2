@@ -1,11 +1,13 @@
 # Week 1 | Day 2
 ### Today, we: 
-- Understood Box Model's padding, margin and border. Here's an image of it: 
+<ul>
+<li>Understood Box Model's padding, margin and border. Here's an image of it:</li> 
 <img src="https://i.imgur.com/LF204FU.gif"/>
 <br>
-- Used the Descendant Selector;
-- Understood Flexbox Mechanism and its properties, such as: flex-direction, align-items, justify-content, flex-wrap; 
-- Created Media Queries to provide a Responsive Web Design for: mobile, tablet and laptop.
+<li>Used the Descendant Selector;</li>
+<li>Understood Flexbox Mechanism and its properties, such as: flex-direction, align-items, justify-content, flex-wrap; </li>
+<li>Created Media Queries to provide a Responsive Web Design for: mobile, tablet and laptop.</li>
+</ul>
 
 
 ### Useful Links: 
