@@ -1,0 +1,35 @@
+/* Media Query - allows you to create different 
+layouts depending on the widht of the device. 
+*/
+
+/* Mobile Widths */
+/*
+@media (min-width: 320px) and (max-width: 767px){
+   ...
+}
+/* Tablet Widths */
+/*
+@media (min-width: 768px) and (max-width: 1023px){
+    ...
+}
+*/
+/* Laptop Widths */
+/*
+@media (min-width: 1024px) and (max-width: 1339px){
+    ...
+}
+*/
+/* Laptop L Widths */
+/*
+@media (min-width: 1440px) and (max-width: 2559px){
+    ...
+}
+*/
+
+/* Tips on creating a good, responsive Web Design */
+
+/* => Adjust font-size according to each device */
+/* => Adjust flex-direction to column from devices tablet 
+and smaller ones */
+/* => Adjust Margins and Paddings */
+/* => Always use percentages as width values when we can. */
